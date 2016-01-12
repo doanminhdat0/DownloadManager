@@ -5,83 +5,83 @@
    },
    "contextMenuOpen": {
       "description": "",
-      "message": "Open"
+      "message": "Mở"
    },
    "contextMenuOpenFolder": {
       "description": "",
-      "message": "Open Containing Folder"
+      "message": "Mở thư mục chứa"
    },
    "contextMenuGoToDownloadPage": {
       "description": "",
-      "message": "Go To Download Page"
+      "message": "Tới trang tải xuống"
    },
    "contextMenuDownloadLink": {
       "description": "",
-      "message": "Copy Download Link"
+      "message": "Sao chép địa chỉ"
    },
    "contextMenuDeleteFromDisk": {
       "description": "",
-      "message": "Delete From Disk"
+      "message": "Xoá khỏi ổ đĩa"
    },
    "contextMenuRemoveFromList": {
       "description": "",
-      "message": "Remove From List"
+      "message": "Loại khỏi danh sách"
    },
    "translationTitle": {
       "description": "",
-      "message": "Help with translation"
+      "message": "Trợ giúp với dịch"
    },
    "AllDownloadsTitle": {
       "description": "",
-      "message": "All Downloads"
+      "message": "Tất cả tải xuống"
    },
    "optionsTitle": {
       "description": "",
-      "message": "Options"
+      "message": "Tuỳ chọn"
    },
    "cancelTitle": {
       "description": "",
-      "message": "Cancel"
+      "message": "Huỷ bỏ"
    },
    "clearAllTitle": {
       "description": "",
-      "message": "Clear All Visible Downloads"
+      "message": "Xoá các tải xuống nhìn thấy"
    },
    "clearAllText": {
       "description": "",
-      "message": "Clear All"
+      "message": "Làm sạch tất cả"
    },
    "clearCompletedTitle": {
       "description": "",
-      "message": "Clear All Completed Downloads"
+      "message": "Xoá các tải xuống thành công"
    },
    "clearCompletedText": {
       "description": "",
-      "message": "Clear Completed"
+      "message": "Xoá danh sách thành công"
    },
    "clearDeletedTitle": {
       "description": "",
-      "message": "Clear All Deleted Downloads"
+      "message": "Xoá các tải xuống bị hỏng"
    },
    "clearDeletedText": {
       "description": "",
-      "message": "Clear Deleted"
+      "message": "Xoá danh sách hỏng"
    },
    "clearFailedTitle": {
       "description": "",
-      "message": "Clear All Failed Downloads"
+      "message": "Xoá các tải xuống thất bại"
    },
    "clearFailedText": {
       "description": "",
-      "message": "Clear Failed"
+      "message": "Xoá danh sách thất bại"
    },
    "eraseTitle": {
       "description": "",
-      "message": "Clear from List"
+      "message": "Xoá khỏi danh sách"
    },
    "errorRemoved": {
       "description": "",
-      "message": "Removed"
+      "message": "Loại bỏ"
    },
    "extDesc": {
       "description": "Extension description",
